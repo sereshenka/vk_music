@@ -4,7 +4,6 @@ import os
 import sys
 from getpass import getpass
 
-'Можно подсказывать какой твой id'
 
 APP_ID = '5727039'
 
